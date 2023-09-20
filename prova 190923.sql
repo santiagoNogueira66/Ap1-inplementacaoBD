@@ -67,7 +67,7 @@ values
 ("2023-09-19","av são joao 30","cliente estacionou em local proibido e teve seu carro multado e rebocado","AIN-1229"),
 ("2021-05-09","rua dos parlamentares 66","avançou o sinal vermelho e derrubou um motoqueiro","MSW-3037"),
 ("2020-03-12","rua dos girassois 500", "perdeu o controle do carro e bateu em um poste","JUZ-4291"),
-("2015-07-18","Rua Barão de Vitória", "pneu do carro estorou e o carro bateu no muro de uma moradora daquela região","CNZ-2257"),
+("2015-07-18","Rua Barão de Vitória S/N", "pneu do carro estorou e o carro bateu no muro de uma moradora daquela região","CNZ-2257"),
 ("2008-11-11","Avenida São João 13", "estacionu em frente a uma garagem e o dono da casa chamou o reboque","JPC-3718");
 
 select * from ocorrencias;
